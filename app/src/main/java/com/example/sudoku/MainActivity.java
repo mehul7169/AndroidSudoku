@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
             case R.id.radio_hard:
                 return 3;
             default:
-                return 1;
+                return 4;
         }
     }
 }
